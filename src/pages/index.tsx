@@ -13,7 +13,7 @@ export default function Home() {
         <title>KKN-PPM UGM Lembaran Bayan</title>
         <link rel="shortcut icon" href="/Logo.png" type="image/x-icon" />
       </Head>
-      <main className="bg-[url('/Tim.png')] font-jakarta bg-cover bg-center min-h-screen flex flex-col justify-between pt-[60px] pb-[40px] md:pb-[80px] items-center text-black backdrop-blur-[20px] overflow-hidden">
+      <main className="bg-[url('/Tim.png')] font-jakarta bg-cover bg-center min-h-screen flex flex-col justify-between pt-[40px] md:pt-[60px] pb-[40px] md:pb-[80px] items-center text-black backdrop-blur-[20px] overflow-hidden">
         <div
           data-aos="fade-down"
           className="max-w-[90%] bg-gradient-to-br from-white/30 to-white/15 z-[1] rounded-[20px] flex justify-center items-center px-8 lg:px-10 py-4 outline outline-white/60 backdrop-blur-[8px] flex-col md:flex-row gap-2 md:gap-5"
